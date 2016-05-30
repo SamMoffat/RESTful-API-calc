@@ -1,0 +1,8 @@
+<section.page-header>
+  <h2><b>Calculator</b></h2>
+    <p> To use this calculator, here are the following commands!
+  <h3><b>Commands:</b></h3>
+    <p> <b>Addition:</b> use "add/value1/value2" to perform an addition, where value1 and value2 equal a value of your choosing <\p>
+    <p> <b>Subtraction:</b> use "subtract/value1/value2" to perform a subtraction, where value1 and value2 equal a value of your choosing <\p>
+    <p> <b>Multiplication:</b> use "multiply/value1/value2" to perform a multiplication, where value1 and value2 equal a value of your choosing <\p>
+    <p> <b>Division:</b> use "divide/value1/value2" to perform a division, where value1 and value2 equal a value of your choosing <\p>
